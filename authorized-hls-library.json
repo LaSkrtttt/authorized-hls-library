@@ -1,14 +1,13 @@
 {
   "sourceName": "Authorized HLS Library",
-  "iconUrl": "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/authorized-hls-library/main/icon.png",
   "author": {
-    "name": "YOUR-NAME",
-    "url": "https://github.com/YOUR-GITHUB-USERNAME"
+    "name": "LaSkrtttt",
+    "url": "https://github.com/LaSkrtttt"
   },
   "version": "1.0.0",
   "baseUrl": "https://YOUR-AUTHORIZED-CATALOG.example",
   "searchBaseUrl": "https://YOUR-AUTHORIZED-CATALOG.example/v1/search?q=",
-  "scriptUrl": "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/authorized-hls-library/main/authorized-hls-library.js",
+  "scriptUrl": "https://raw.githubusercontent.com/LaSkrtttt/authorized-hls-library/main/authorized-hls-library.js",
   "type": "anime",
   "streamType": "HLS",
   "asyncJS": true,
